@@ -165,3 +165,9 @@ from cte)
 select *
 from cte2
 where rnk <=10;
+
+
+
+
+
+-- END of project

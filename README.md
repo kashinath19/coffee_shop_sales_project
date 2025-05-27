@@ -1,4 +1,4 @@
-#☕️📊 coffee_shop_sales_project 📈📌
+# ☕️📊 coffee_shop_sales_project 📈📌
 
 ## 📝 Overview
 This project focuses on analyzing sales data for a fictional coffee shop chain to derive actionable insights into sales performance, order trends, and product popularity. Using a synthetic dataset of coffee shop sales for 2024, the project employs SQL for data querying and Power BI to create an interactive dashboard, providing a comprehensive view of business performance.
